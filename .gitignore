@@ -1,4 +1,28 @@
-/.idea
-*.pth
+# IDEs / editors
+.idea/
+.vscode/
+
+# Jupyter
 .ipynb_checkpoints/
-/*.csv
+
+# Mac OS
+.DS_Store
+
+# Data
+data/FashionMNIST/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Data and model files
+*.pth
+*.csv
+*.png
+
+# Logs
+*.log

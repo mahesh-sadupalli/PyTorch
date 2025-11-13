@@ -1,0 +1,4 @@
+/.idea
+*.pth
+.ipynb_checkpoints/
+/*.csv
